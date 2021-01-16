@@ -1,2 +1,2 @@
 # AI
-Selcuk University Artificial Intelligence projects
+Artificial Intelligence projects
